@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# adding to 
+
 # app.sh from the main branch
 # This is a bash script for Domino's App publishing feature
 #   learn more at http://support.dominodatalab.com/hc/en-us/articles/209150326
