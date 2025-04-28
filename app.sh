@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # adding to 
+# adding from workspace jupyter terminal
 
 # app.sh from the main branch
 # This is a bash script for Domino's App publishing feature
