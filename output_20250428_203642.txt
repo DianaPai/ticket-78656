@@ -1,0 +1,2 @@
+This is a sample output.
+Current date and time: 2025-04-28 20:36:42.213092
